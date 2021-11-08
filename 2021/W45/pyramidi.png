@@ -110,11 +110,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/9996346/ws?session=eyJ2IjoiVjMiLCJ1Ijo5OTk2MzQ2LCJzIjo2NjE4NzQ2NDgsImMiOjE2NDE1Njk4ODYsInQiOjE2MzYyODU5MzB9--e7f9cf683574e9e0bc4663ec7f5fb28d45d93fe72653a630038fb6ec3e07c122" data-refresh-url="/_alive" data-session-id="5a9396927d604db5eef6c0859a69fb2ceb3e202dacc3cf36eb422e121b4326ba">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/9996346/ws?session=eyJ2IjoiVjMiLCJ1Ijo5OTk2MzQ2LCJzIjo2NjE4NzQ2NDgsImMiOjg2NjQyMzI2MCwidCI6MTYzNjM2NTIzOH0=--731457fe460f01fd31b7a3828d558db81a484d6274d60eecf088231ce348c676" data-refresh-url="/_alive" data-session-id="5a9396927d604db5eef6c0859a69fb2ceb3e202dacc3cf36eb422e121b4326ba">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-2e2ab3fc.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="0764:5A7C:BB6F15:E3DC87:6187BDE3" data-pjax-transient="true" /><meta name="html-safe-nonce" content="54261e99d1eaac2c2becc9e52a7f7aa8d70213f19feffca852a5035045e74447" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IjA3NjQ6NUE3QzpCQjZGMTU6RTNEQzg3OjYxODdCREUzIiwidmlzaXRvcl9pZCI6IjQ4NDY5NTM4NjE2ODIwODI0MDYiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoZWFzdC0yIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="a9beb9eb967f4e50055c183fb4e46d2b6302b95fcd65c532e614e31a44d6dd1c" data-pjax-transient="true" />
+  <meta name="request-id" content="07EA:3DC0:140188:1DF6D4:6188F3B0" data-pjax-transient="true" /><meta name="html-safe-nonce" content="54261e99d1eaac2c2becc9e52a7f7aa8d70213f19feffca852a5035045e74447" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IjA3RUE6M0RDMDoxNDAxODg6MURGNkQ0OjYxODhGM0IwIiwidmlzaXRvcl9pZCI6IjQ4NDY5NTM4NjE2ODIwODI0MDYiLCJyZWdpb25fZWRnZSI6ImFwLXNvdXRoZWFzdC0yIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="e0b2d023a1766c62e32a785c2dd354a1858af0cc7e6a76de752cd08c42f433d8" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:302114983" data-pjax-transient>
 
@@ -153,7 +153,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="YjA0NzBiODU3OWVkZmFjZDgzZTIwMzYyOWY5MGUyY2JiZGNhMGRhNmRlNzNiZDVkNWY3NmI2MTRkMWRiNDdjYXx7InJlbW90ZV9hZGRyZXNzIjoiMTE3LjIwLjY4LjIzNiIsInJlcXVlc3RfaWQiOiIwNzY0OjVBN0M6QkI2RjE1OkUzREM4Nzo2MTg3QkRFMyIsInRpbWVzdGFtcCI6MTYzNjI4NTkzMCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="YTEwZmEyMzExNmQyZmVhMjY3NTNmMGJkYTI4ZDgyNWMwNWY5NTE2NzIyOWM0ZTlkMTAzMGQ1OTY4ZTVjMDI2Y3x7InJlbW90ZV9hZGRyZXNzIjoiMTE3LjIwLjY4LjIzNiIsInJlcXVlc3RfaWQiOiIwN0VBOjNEQzA6MTQwMTg4OjFERjZENDo2MTg4RjNCMCIsInRpbWVzdGFtcCI6MTYzNjM2NTIzOCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -263,7 +263,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="6tw9T8456rOlsQCujcsez1L5MAgd33Z4Ec4qJB3fpdkkuFMVg9T6NuA+UTGJbyBDfCmqv7fblABbabLx6lPJiA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="6ifN4hUUFcmcpeV6M4ls0cvU9kgymVemxuDIrTeJZdkkQ6O4WPkFTNkqtOU3LVJd5QRs/5idtd6MR1B4wAUJiA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -479,7 +479,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/9996346?s=40&amp;v=4" width="20" height="20" alt="@MilesMcBain" />
       MilesMcBain
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="M82ips6XOZVb48PMjTskFWEkYxVDyqthlBWiTnJJUTD8or1le48NlpimQ1LKkROQ+xNPpXkEkdi+zeeawpB1zA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kNoFJx3d6Zq2Q94FG8J8J42U5eG6LPYTzDTYqhriWfNftRrkqMXdmXUGXptcaEuiF6PJUYDizKrm7J1+qjt9Dw==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -517,7 +517,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTk5NjM0NiIsInQiOjE2MzYyODU5MzB9--b11c2896a302e268b95880588eac18668b3f020d99d1854509f68bd630930777">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTk5NjM0NiIsInQiOjE2MzYzNjUyMzh9--51755e777f7c8aec5130f0b8b8d340d4ff753e4b2bfafad232d6af199c42738d">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -655,11 +655,11 @@
       data-return-to=/urswilke/pyramidi/blob/master/man/figures/README-midi_piano_roll-1.png
       data-user-id="9996346"
       >
-      <input type="hidden" value="SnWDpolyaUj0+Jl8I//MOdSAMUO6v5jt8NSRcMLa0bAgVlP5OUo987F78xG561x6uwqtLmtAjo99xDAB1NT+nA==" data-csrf="true" class="js-graphql-csrf" />
+      <input type="hidden" value="nxbx3k34vUDAb5aVA4loFPqnkwbdNx1L80pcrG38QYv1NSGB/cDp+4Xs/PiZnfhXlS0PawzICyl+Wv3de/Jupw==" data-csrf="true" class="js-graphql-csrf" />
       <iframe class="d-none js-command-palette-commands" sandbox="allow-scripts allow-same-origin" srcdoc="<script crossorigin=&quot;anonymous&quot; defer=&quot;defer&quot; integrity=&quot;sha512-QlLlS61ztNDX0MakiMw8Co2H4lwwWxBjEux0TXwYeRxNqomMtm5SWMesEKum2gowVBnTnVaG9IqV5fCMSTa9Jg==&quot; type=&quot;application/javascript&quot; src=&quot;https://github.githubassets.com/assets/command-runner-4252e54b.js&quot;></script>
 " aria-hidden="true"></iframe>
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="o5PxMyq3pzIF6IDO6Ljhhpq4Jn8CXmfu/OfABrfNFyzB4yRCYUcrwYODPe8RuRCP1VloGWJ9UQsRPpzldpWPnw==" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="/+vLm/bqtkOn6QzBBZWVd/qE6TGmMmbNyUv2rDZCMfedmx7qvRo6sCGCseD8lGR+tWWnV8YRUCgkkqpP9xqpRA==" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1379,7 +1379,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7Ab6CHdrEuPu17EVAZrAIf0sH/PtfEqtFvad7gjp2qmPzkqbgPsjxa07kkdF3onFja6nRH7smSLr3aTuOSz66w==" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SAsVI3CYH9zGOYu5Pk04tttRhN1o3laAhDQ9elGzRxcrw6Wwhwgu+oXVqOt6CXFSq9M8avtOhQ95HwR6YHZnVQ==" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="302114983">
 
@@ -1502,7 +1502,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TEftIBgG02m+eNeFRYTfEKMcFfHv5Hl57Pt39NRW2Hkvj12z75biT/2U9NcBwJb0056tRnx0qvYR0E705ZP4Ow==" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="r4aOXcjjCGvHIkinUqhSREAk/v3q0Xp+YgsGOr1hbSTMTj7OP3M5TYTOa/UW7BugMKZGSnlBqfGfID86jKRNZg==" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="302114983">
 
@@ -1660,7 +1660,7 @@
 
     <li>
           <div class="js-toggler-container js-social-container starring-container d-block on">
-    <form class="starred js-social-form" action="/urswilke/pyramidi/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ggUrOpmu3ZC3WKR1KZiORxsAKqvoFKclDiiFVi+d71SHXA+2GKwd7R+k52rz4lkZgQOJag+yi1E1tsbtw/7xpQ==" autocomplete="off" />
+    <form class="starred js-social-form" action="/urswilke/pyramidi/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0jUIrL1JmRUE+PxWHG026d89fyF2xPP7Eq+BmjBpsnjXbCwgPEtZaKwEv0nGF+G3RT7c4JFi348pMcIh3AqsiQ==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
       <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:302114983,&quot;originating_url&quot;:&quot;https://github.com/urswilke/pyramidi/blob/master/man/figures/README-midi_piano_roll-1.png&quot;,&quot;user_id&quot;:9996346}}" data-hydro-click-hmac="3a07aa7f993ba12369f34101c86e36430de88d303f863ccbf1a4b3b6e83e9e1b" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
@@ -1682,7 +1682,7 @@
            1
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/urswilke/pyramidi/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lHtuB1FVN26omS5/BCIvT2Ri8azipTAlVqzSRgTdbLh7CYx8c1eAPT5pVAHRAd/DhC9XXW0I9R7CEOIMyzX95g==" autocomplete="off" />
+    <form class="unstarred js-social-form" action="/urswilke/pyramidi/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ISxH3uh7Oqsk3tFiFCQiaR4aD4qxxxrGwdMDZcZcZ0LOXqWlynmN+LIuqxzBB9Ll/lepez5q3/1VbzMvCbT2HA==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
       <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:302114983,&quot;originating_url&quot;:&quot;https://github.com/urswilke/pyramidi/blob/master/man/figures/README-midi_piano_roll-1.png&quot;,&quot;user_id&quot;:9996346}}" data-hydro-click-hmac="b7d1a85e840a407137982818e07b4dfa99948b93f2103bd92fc471e3259e169a" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
@@ -2225,7 +2225,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/urswilke/pyramidi/delete/master/man/figures/README-midi_piano_roll-1.png" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Wh48wvf3vMhuPKIEHKcIgX2CNiTqXyoFxTPen2cSbX+bNGxwbCqhG14K1Mvk8JU1CC978yflunCyKcb5RtUOxw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/urswilke/pyramidi/delete/master/man/figures/README-midi_piano_roll-1.png" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="/VF1xuy8HBolj9k7UY3Jy0vnuvskuY7j1/HzLHYyBFE8eyV0d2EByRW5r/Sp2lR/Pkr3LOkDHpag6+tKV/Vn6Q==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
